@@ -1,0 +1,8 @@
+build/
+pretrained_models/
+*.pyc
+*.todo
+*.png
+*.log
+*.jpg
+*.svg
